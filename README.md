@@ -33,13 +33,19 @@ All visualizations and dashboards were designed with accessibility in mind, taki
 
 ## Conclusion
 Through data cleaning, preparation, and visualization, this project provides valuable insights into the economic performance of the top 20 highest ranking countries. The interactive dashboards and visualizations offer intuitive representations of key economic indicators, enabling stakeholders to explore and analyze the data effectively.
-**Dashboard1:**
-![image](https://github.com/SubashiniMahadevan/WEALTH-OF-NATIONS-Using-Excel-and-Tableau/assets/168095179/c324a67a-b5d1-4d22-af55-f3cf7cd4f5cc)
 
 [Link For Dashboard1](https://public.tableau.com/app/profile/subashini.mahadevan/viz/Assignment_17096639275850/Dashboard1)
-**Dashboard 2:**
-![image](https://github.com/SubashiniMahadevan/WEALTH-OF-NATIONS-Using-Excel-and-Tableau/assets/168095179/7a499418-a34e-4cfb-83b3-15805730c80b)
+
+**Dashboard1:**
+
+![image](https://github.com/SubashiniMahadevan/WEALTH-OF-NATIONS-Using-Excel-and-Tableau/assets/168095179/c324a67a-b5d1-4d22-af55-f3cf7cd4f5cc)
 
 [Link for Dashboard2](https://public.tableau.com/app/profile/subashini.mahadevan/viz/Assignment_17096639275850/Dashboard2)
+
+**Dashboard 2:**
+
+![image](https://github.com/SubashiniMahadevan/WEALTH-OF-NATIONS-Using-Excel-and-Tableau/assets/168095179/7a499418-a34e-4cfb-83b3-15805730c80b)
+
+
 
 📊🌍💼📱
