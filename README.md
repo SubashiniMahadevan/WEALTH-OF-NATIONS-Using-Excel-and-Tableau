@@ -1,11 +1,13 @@
 # WEALTH-OF-NATIONS-Using-Excel-and-Tableau
-# Wealth of Nations Data Analysis Project
+
 
 ## Overview
 This project focuses on analyzing the Wealth of Nations dataset to gain insights into global economic indicators. The dataset includes data on Life Expectancy, GDP, and Smartphone Ownership for countries around the world. The dataset was cleaned, filtered, and sorted using Excel, and then visualized on Tableau. The analysis is centered around the top 20 highest ranking countries in terms of economic indicators.
 
 ## Dataset
 The Wealth of Nations dataset contains various economic indicators for countries around the world, including Life Expectancy, GDP, and Smartphone Ownership.
+
+
 
 ## Data Cleaning and Preparation
 The dataset was cleaned, filtered, and sorted using Excel to ensure data consistency and quality. Missing values were handled, duplicates were removed, and the data was sorted according to the client's requirements.
@@ -33,6 +35,17 @@ All visualizations and dashboards were designed with accessibility in mind, taki
 
 ## Conclusion
 Through data cleaning, preparation, and visualization, this project provides valuable insights into the economic performance of the top 20 highest ranking countries. The interactive dashboards and visualizations offer intuitive representations of key economic indicators, enabling stakeholders to explore and analyze the data effectively.
+
+**EXCEL**
+
+![image](https://github.com/SubashiniMahadevan/WEALTH-OF-NATIONS-Using-Excel-and-Tableau/assets/168095179/a0882de0-1571-4a11-899d-afd046ff2373)
+
+Macro creation for copy, save and Print
+
+![image](https://github.com/SubashiniMahadevan/WEALTH-OF-NATIONS-Using-Excel-and-Tableau/assets/168095179/1c380af6-995e-403b-8994-8fd70d82ea27)
+
+
+**TABLEAU**
 
 [Link For Dashboard1](https://public.tableau.com/app/profile/subashini.mahadevan/viz/Assignment_17096639275850/Dashboard1)
 
