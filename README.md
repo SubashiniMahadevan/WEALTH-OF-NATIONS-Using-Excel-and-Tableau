@@ -207,6 +207,18 @@ You have three sheets and the common column for all of them is country, so the v
 
 5)As you create your charts, if you see a little gray box containing a count of null values, select the filter option.
 
+
+![image](https://github.com/SubashiniMahadevan/WEALTH-OF-NATIONS-Using-Excel-and-Tableau/assets/168095179/04c8d35b-2e00-4ae2-9645-3cf04e801382)
+
+Sorting:
+
+![image](https://github.com/SubashiniMahadevan/WEALTH-OF-NATIONS-Using-Excel-and-Tableau/assets/168095179/cb121a8b-9414-43b0-8da2-7f9ed2c853ab)
+
+Editing Axis 
+
+![image](https://github.com/SubashiniMahadevan/WEALTH-OF-NATIONS-Using-Excel-and-Tableau/assets/168095179/b57761a0-2ed3-4b8a-a59f-08a8171c2398)
+
+
 6)Build your dashboard.
 
 
